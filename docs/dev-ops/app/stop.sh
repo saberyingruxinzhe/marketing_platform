@@ -1,1 +1,1 @@
-docker stop marketing_platform
+docker stop big-market
